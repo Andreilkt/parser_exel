@@ -7,4 +7,7 @@ https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-17-osnovy-
 /html/body/form/input[2]
 
 
-https://parsemachine.com/articles/urok-1-pishem-parser-kataloga-tovarov-na-python/  парсекр с записью в файлы
+https://parsemachine.com/articles/urok-1-pishem-parser-kataloga-tovarov-na-python/  парсер с записью в файлы
+
+
+https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-17-osnovy-skrapinga-i-parsinga-2023-03-13  способы парсинга
